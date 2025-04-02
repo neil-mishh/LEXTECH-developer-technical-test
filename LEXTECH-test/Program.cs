@@ -4,7 +4,14 @@
     {
         public int GetMissingNum(int[] input)
         {
-            return input.Length;
+            int n = input.Length;
+            int sum = n * (n + 1) / 2;
+            int total = 0;
+            for(int i = 0; i < n; i++)
+            {
+                total += input[i];
+            }
+            return sum - total;
         }
     }
     class Program
