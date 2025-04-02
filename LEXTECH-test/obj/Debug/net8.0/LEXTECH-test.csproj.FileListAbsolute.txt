@@ -1,0 +1,15 @@
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\bin\Debug\net8.0\LEXTECH-test.exe
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\bin\Debug\net8.0\LEXTECH-test.deps.json
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\bin\Debug\net8.0\LEXTECH-test.runtimeconfig.json
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\bin\Debug\net8.0\LEXTECH-test.dll
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\bin\Debug\net8.0\LEXTECH-test.pdb
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.AssemblyInfoInputs.cache
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.AssemblyInfo.cs
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.csproj.CoreCompileInputs.cache
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.sourcelink.json
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.dll
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\refint\LEXTECH-test.dll
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.pdb
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\LEXTECH-test.genruntimeconfig.cache
+C:\Users\neilm\Desktop\LEXTECH-developer-technical-test\LEXTECH-test\obj\Debug\net8.0\ref\LEXTECH-test.dll
