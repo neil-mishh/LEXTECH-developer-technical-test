@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LEXTECH-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+218066675bede982eebf4bf4fc64b3eab62f5de9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38fb0e080a9530b06054221f948cd76cda521a6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LEXTECH-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LEXTECH-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

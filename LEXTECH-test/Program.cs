@@ -1,29 +1,5 @@
-﻿namespace Program
+﻿namespace LEXTECH_test
 {
-    public class Service
-    {
-        public int GetExpectedSum(int n)
-        {
-            return n * (n + 1) / 2;
-        }
-        public int GetCurrentSum(int[]input)
-        {
-            int total = 0;
-            for (int i = 0; i < input.Length; i++)
-            {
-                total += input[i];
-            }
-            return total;
-        }
-        public int GetMissingNum(int[] input)
-        {
-            int n = input.Length;
-            int expectedSum = GetExpectedSum(n);
-            int currentSum = GetCurrentSum(input);
-
-            return expectedSum - currentSum;
-        }
-    }
     class Program
     {
         static void Main(string[] args)
