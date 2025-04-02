@@ -6,9 +6,9 @@ namespace LEXTECH_test
     public class Service
     {
         private IMissingNumber _missingNumber;
-        public Service()
+        public Service(IMissingNumber missingNumber)
         {
-            _missingNumber = new MissingNumber();
+            _missingNumber = missingNumber;
         }
         public int GetMissingNum(int[] input)
         {

@@ -1,4 +1,7 @@
-﻿namespace LEXTECH_test
+﻿using LEXTECH_test.Classes;
+using LEXTECH_test.Interfaces;
+
+namespace LEXTECH_test
 {
     class Program
     {
@@ -6,7 +9,8 @@
         {
             try
             {
-                Service service = new Service();
+                IMissingNumber missingNumber = new MissingNumber();
+                Service service = new Service(missingNumber);
 
                 Console.WriteLine("Enter number input separated by commas: ");
                 int[] input = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
