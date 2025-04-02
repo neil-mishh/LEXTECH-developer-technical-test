@@ -18,12 +18,20 @@
     {
         static void Main(string[] args)
         {
-            Service service = new Service();
+            try
+            {
+                Service service = new Service();
 
-            int[] input = { 3, 0, 1};
-            int result = service.GetMissingNum(input);
+                Console.WriteLine("Enter number input separated by commas: ");
+                int[] input = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
+                int result = service.GetMissingNum(input);
 
-            Console.WriteLine($"Output: {result}");
+                Console.WriteLine($"Output: {result}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
         }
     }
 
